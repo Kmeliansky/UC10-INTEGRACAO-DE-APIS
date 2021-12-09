@@ -1,0 +1,34 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usuario": "vitoria pinho",
+      "senha": "admin"
+    },
+    {
+      "id": 3,
+      "usuario": "maria da silva",
+      "senha": "admin123"
+    },
+    {
+      "usuario": "Claudia baroni",
+      "senha": "abacaxi",
+      "id": 4
+    },
+    {
+      "usuario": "Claudia baroni",
+      "senha": "abacaxi",
+      "id": 5
+    },
+    {
+      "usuario": "Claudia baroni",
+      "senha": "abacaxi",
+      "id": 6
+    },
+    {
+      "usuario": "Claudia baroni",
+      "senha": "abacaxi",
+      "id": 7
+    }
+  ]
+}
